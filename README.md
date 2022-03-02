@@ -7,9 +7,15 @@
 
 <p align="center"><br>
   <a href="https://github.com/RJ4444">
-    <img src="https://lanyard.cnrad.dev/api/592742911263899649"/>
      </a>
 </p>
+
+<p align="center">
+  <a href="https://discord.gg/VKWSPnSxC8">
+  <img src="https://invidget.switchblade.xyz/825260113509351454" alt="eZaR"/>
+  </a>
+</p>
+
 
 <br><br>
 <p align="center">
