@@ -1,20 +1,13 @@
-<p align='center'>
-  <b>Hi 👋, I'm R J</b><br>
-  <a href="https://discord.gg/VKWSPnSxC8">Discord</a> |
-  <a href="https://youtube.com/c/DEV-RJ">YouTube</a> 
 
-</p>
-
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://media.discordapp.net/attachments/934056910372634695/942631347112013844/20220214_092732.png">  
 <p align="center"><br>
   <a href="https://github.com/RJ4444">
      </a>
 </p>
-
-<p align="center">
-  <a href="https://discord.gg/VKWSPnSxC8">
-  <img src="https://invidget.switchblade.xyz/825260113509351454" alt="eZaR"/>
-  </a>
+<p align='center'>
+  <b>Hi 👋, I'm R J</b><br>
 </p>
+
 
 
 <br><br>
@@ -36,4 +29,10 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=RJ4444&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJ4444&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+</p>
+</a>
+<p align="center">
+  <a href="https://discord.gg/VKWSPnSxC8">
+  <img src="https://invidget.switchblade.xyz/825260113509351454" alt="eZaR"/>
+  </a>
 </p>
